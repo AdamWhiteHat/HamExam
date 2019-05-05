@@ -12,9 +12,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("HamExam")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("http://arakaska.wix.com/intelligentsoftware")]
+[assembly: AssemblyCompany("https://csharpcodewhisperer.blogspot.com")]
 [assembly: AssemblyProduct("HamExam")]
-[assembly: AssemblyCopyright("Copyright (C) 2013 Adam Rakaska")]
+[assembly: AssemblyCopyright("Copyright (C) 2013 Adam White")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
